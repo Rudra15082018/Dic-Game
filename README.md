@@ -5,7 +5,7 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 
 ## Deployment
 
-Demo: https://rosajen27.github.io/dicegame/
+Demo: https://Rudra.github.io/dicegame/
 
 ![dice-game](./images/one.png)
 ![dice-game](./images/two.png)
@@ -19,8 +19,8 @@ Demo: https://rosajen27.github.io/dicegame/
 
 ## Authors
 
-  * **Jennifer Rosa**
-    [Rosajen27](https://rosajen27.github.io/)
+  * **Rudra**
+    [Rudra](https://Rudra.github.io/)
 
 
 ## License
@@ -29,7 +29,7 @@ Demo: https://rosajen27.github.io/dicegame/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 Jennifer Rosa
+Copyright (c) 2022 Rudra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
